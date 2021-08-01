@@ -5,7 +5,7 @@ This repo contains the data and code required to reproduce the main figures pres
 
 Summarised data and code to reproduce the main figures are available in the folder 'Figures'
 
-Data and code for reinforcement modelling are available in the folder 'RL-modelling'
+Data and code for the reinforcement modelling -- both using simple feature RL and Abstract RL, as well as for the kixture-of-experts architecture, are available in the folder 'RL-modelling'
 
 The stimuli, code and a sample task file are contained in the folder 'TASK'
 
