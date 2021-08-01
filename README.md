@@ -1,7 +1,7 @@
 # Cortese_et_al_2021
 
 
-This repo contains the data and code required to reproduce the main figures presented in Cortese et al., 2021. "Value signals guide abstraction during learning". Available at https://elifesciences.org/articles/68943
+This repo contains the data and code required to reproduce the main figures presented in Cortese et al., 2021. "Value signals guide abstraction during learning". eLife. Available at https://elifesciences.org/articles/68943
 
 Summarised data and code to reproduce the main figures are available in the folder 'Figures'
 
